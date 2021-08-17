@@ -53,15 +53,12 @@
         android:checked="false"
         app:showText = "true"
         android:importantForContentCapture="yes"/>
-
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="end"
         android:text="Check mark"
-        android:textColor="#ddadaf" />
-
-
+        android:textColor="#ddadaf"
+        />
 
 
 </LinearLayout>
